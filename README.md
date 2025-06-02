@@ -1,9 +1,8 @@
 # 🚕 Goodcabs-Operations-Analysis
 This repository contains resources for analyzing and improving Goodcabs' operations in tier-2 cities across India. It includes:
 
-## 🛠️ SQL Queries for data extraction and analysis.
+## 🛠️ DAX Queries for data extraction and analysis.
 📊 Dashboards showcasing visual insights.
-📑 Presentations with actionable recommendations for operational improvements.
 📝 Introduction
 Founded in 2022, Goodcabs is committed to transforming cab services in Tier-2 cities.
 
